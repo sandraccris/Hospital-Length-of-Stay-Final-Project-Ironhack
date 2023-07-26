@@ -1,7 +1,6 @@
 # Hospital-Length-of-Stay-Final-Project-Ironhack
 
-![myimage](https://bestpractice.bmj.com/info/wp-content/uploads/2020/08/iStock-1194838627-scaled.jpg](https://bestpractice.bmj.com/info/wp-content/uploads/2020/08/iStock-1194838627-scaled.jpg)
-<br>
+![myimage](https://bestpractice.bmj.com/info/wp-content/uploads/2020/08/iStock-1194838627-scaled.jpg)
 <br>
 **Project Goal**
 <br>

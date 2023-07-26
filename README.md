@@ -1,7 +1,8 @@
 # Hospital-Length-of-Stay-Final-Project-Ironhack
 
-![myimage-alt-tag]([url-to-image](https://bestpractice.bmj.com/info/wp-content/uploads/2020/08/iStock-1194838627-scaled.jpg)https://bestpractice.bmj.com/info/wp-content/uploads/2020/08/iStock-1194838627-scaled.jpg)
-
+![myimage](ttps://bestpractice.bmj.com/info/wp-content/uploads/2020/08/iStock-1194838627-scaled.jpg](https://bestpractice.bmj.com/info/wp-content/uploads/2020/08/iStock-1194838627-scaled.jpg)
+<br>
+<br>
 **Project Goal**
 <br>
 This project was developed as part of the Ironhack Data Analytics Bootcamp.

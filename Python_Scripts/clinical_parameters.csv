@@ -1,0 +1,82 @@
+﻿Parameter;Data Source;Description;Unit
+caseid;Random;Case ID;
+subjectid;EMR;Subject ID;
+casestart;Case file;Recording Start Time;
+caseend;Case file;Recording End Time;
+anestart;Case file;Anesthesia start time;
+aneend;Case file;Anesthesia end time;
+opstart;Case file;Operation start time;
+opend;Case file;Operation end time;
+devices;Case file;Devices used;
+tracks;Case file;Number of track parameters;
+casedur;Case file;Case duration;min
+filesize;Case file;Case file size;MB
+age;EMR;Age;years
+sex;EMR;Sex;M/F
+height;EMR;Height;cm
+weight;EMR;Weight;kg
+bmi;EMR;Body mass index;kg/m2
+asa;EMR;ASA Physical status classification;
+emop;EMR;Emergency operation;
+department;EMR;Surgical department;
+optype;EMR;Surgery type;
+dx;EMR;Diagnosis;
+opname;EMR;Operation name;
+approach;EMR;Surgical approach;
+position;EMR;Surgical position;
+ane_type;EMR;Anesthesia type;
+opdur;EMR;Surgery duration;min
+anedur;EMR;Anesthesia duration;min
+adm;EMR;Admission time from casestart;sec
+dis;EMR;Discharge time from casestart;sec
+los_postop;EMR;Postoperative length of hospital stay;days
+los_icu;EMR;Postoperative length of ICU stay;days
+death_inhosp;EMR;In-hospital Mortality;
+preop_htn;EMR;Preoperative hypertension;
+preop_dm;EMR;Preoperative diabetes;
+preop_arrhythmia;EMR;Preoperative arrhythmia;
+preop_pft;EMR;Preoperative pulmonary function;
+preop_hb;EMR;Preoperative hemoglobin;g/dL
+preop_plt;EMR;Preoperative platelet count;x1000/mcL
+preop_pt;EMR;Preoperative PT;%
+preop_aptt;EMR;Preoperative aPTT;sec
+preop_na;EMR;Preoperative Na;mmol/L
+preop_k;EMR;Preoperative K;mmol/L
+preop_gluc;EMR;Preoperative glucose;mg/dL
+preop_alb;EMR;Preoperative albumin;g/dL
+preop_ast;EMR;Preoperative GOT;IU/L
+preop_alt;EMR;Preoperative GPT;IU/L
+preop_bun;EMR;Preoperative blood urea nitrogen;mg/dL
+preop_cr;EMR;Preoperative creatinine;mg/dL
+preop_ph;EMR;Preoperative pH;
+preop_hco3;EMR;Preoperative HCO3-;mmol/L
+preop_be;EMR;Preoperative base excess;mmol/L
+preop_pao2;EMR;Preoperative PaO2;mmHg
+preop_paco2;EMR;Preoperative PaCO2;mmHg
+preop_sao2;EMR;Preoperative SpO2;%
+cormack;EMR;Cormack's grade;
+airway;EMR;Airway route;
+tubesize;EMR;Endotracheal tube size;mm
+dltubesize;EMR;Double lumen tube size;Fr
+lmasize;EMR;LMA size;
+iv1;EMR;Site of IV line (1);
+iv2;EMR;Site of IV line (2);
+aline1;EMR;Site of arterial line (1);
+aline2;EMR;Site of arterial line (2);
+cline1;EMR;Site of central line (1);
+cline2;EMR;Site of central line (2);
+intraop_ebl;EMR;Estimated blood loss;mL
+intraop_uo;EMR;Intraoperative urine output;mL
+intraop_rbc;EMR;Intraoperative RBC transfusion;Unit
+intraop_ffp;EMR;Intraoperative FFP transfusion;Unit
+intraop_crystalloid;EMR;Intraoperative crystalloid;mL
+intraop_colloid;EMR;Intraoperative colloid;mL
+intraop_ppf;EMR;Propofol bolus;mg
+intraop_mdz;EMR;Midazolam;mg
+intraop_ftn;EMR;Fentanyl;mcg
+intraop_rocu;EMR;Rocuronium;mg
+intraop_vecu;EMR;Vecuronium;mg
+intraop_eph;EMR;Ephedrine;mg
+intraop_phe;EMR;Phenylephrine;mcg
+intraop_epi;EMR;Epinephrine;mcg
+intraop_ca;EMR;Calcium chloride;mg

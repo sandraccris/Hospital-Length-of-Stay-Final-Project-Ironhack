@@ -30,25 +30,22 @@ The dataset includes 73 columns with Clinical parameters, 196 intraoperative mon
 
 ## :spiral_notepad: Repository Files 
 
-01. [SQL Queries](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/blob/main/SQL_queries/sql_queries_LOS.sql)
-
-
-02. [Streamlit Web App Development](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/tree/main/App_Streamlit). You can see it live by [cliking here](https://hospital-length-of-stay-surgery-calculator.streamlit.app/) and exploring its features.
-
-
-03. [Tableau Documentation](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/tree/main/Tableau_dashboard). You can see my Tableau Dashboard about Factors Affecting Hospital Length of Stay by [clicking here](https://public.tableau.com/app/profile/sandra.cunha/viz/FactorsAffectingLengthofHospitalization/Dashboard1).
-
-
-04. Machine Learning Model Development:
+1. [Streamlit Web App Development](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/tree/main/App_Streamlit). You can see it live by [clicking here](https://hospital-length-of-stay-surgery-calculator.streamlit.app/) and exploring its features.
+  
+2. [Final Project Presentation](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/blob/main/Presentation/Prediction%20of%20Hospital%20Length.pdf)
    
-- 4.1 [Python Script 1 - Data Extraction, Cleaning, Exploratory Data Analysis](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/blob/main/Python_Scripts/01_Cleaning_EDA.ipynb)
+3.  Machine Learning Model Development:
+   
+- 3.1 [Python Script 1 - Data Extraction, Cleaning, Exploratory Data Analysis](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/blob/main/Python_Scripts/01_Cleaning_EDA.ipynb)
 
-- 4.2 [Python Script 2 - Pre-processing (continuation) and Modeling](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/blob/main/Python_Scripts/02_Preprocessing2_Modeling.ipynb)
+- 3.2 [Python Script 2 - Pre-processing (continuation) and Modeling](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/blob/main/Python_Scripts/02_Preprocessing2_Modeling.ipynb)
 
-- 4.3 [Python Script 3 - Model Optimization, Evaluation and Validation](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/blob/main/Python_Scripts/03_Random_Forest_Classifier_Optimization_Evaluation.ipynb)
+- 3.3 [Python Script 3 - Model Optimization, Evaluation and Validation](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/blob/main/Python_Scripts/03_Random_Forest_Classifier_Optimization_Evaluation.ipynb)
+
+4. [SQL Queries](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/blob/main/SQL_queries/sql_queries_LOS.sql)
 
 
-05. [Final Project Presentation](insert link)
+5. [Tableau Documentation](https://github.com/sandraccris/Hospital-Length-of-Stay-Final-Project-Ironhack/tree/main/Tableau_dashboard). You can see my Tableau Dashboard about Factors Affecting Hospital Length of Stay by [clicking here](https://public.tableau.com/app/profile/sandra.cunha/viz/FactorsAffectingLengthofHospitalization/Dashboard1).
 
 
 ## :chart_with_upwards_trend: Results 
